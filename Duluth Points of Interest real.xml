@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Duluth Points of Interest real</resTitle>
+		</idCitation>
+		<idPurp>different locations in duluth</idPurp>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<searchKeys>
+			<keyword>points</keyword>
+			<keyword>Duluth</keyword>
+		</searchKeys>
+	</dataIdInfo>
+	<distInfo>
+		<distTranOps>
+			<onLineSrc>
+				<linkage>http://umn.maps.arcgis.com/sharing/rest/content/items/eb963e9bf9ad44a7b392b75fa3422a14/data</linkage>
+			</onLineSrc>
+		</distTranOps>
+	</distInfo>
+	<Esri>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+		<CreaDate>2018-11-20</CreaDate>
+		<CreaTime>11:46:32.37</CreaTime>
+		<ModDate>2018-11-20</ModDate>
+		<ModTime>11:46:45.45</ModTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISProfile>ISO19139</ArcGISProfile>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+	</Esri>
+	<mdDateSt>2018-11-20</mdDateSt>
+	<mdFileID>eb963e9bf9ad44a7b392b75fa3422a14</mdFileID>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+</metadata>
